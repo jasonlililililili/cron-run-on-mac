@@ -1,6 +1,6 @@
 {
     "example-task": {
         "description": "This is an example task",
-        "location": "./tasks/example-task.py"
+        "location": "./task/example-task.py"
     }
 }

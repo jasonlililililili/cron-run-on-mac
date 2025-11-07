@@ -2,6 +2,7 @@
 ## it will be run im case of the task id is returned by the cron-event script
 
 import logging
+from datetime import datetime
 
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
